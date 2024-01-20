@@ -1,2 +1,4 @@
 # cosmos-address
 cosmos1sxf5q6ccrr2zgtekgvrvuy0jd4fxsldrurzc0f
+
+42TcvvWbA1ThCmmErQ5XdR1Zukx8R5o7g6vCzJ6GAhZU8FytmZwQo7xKsn7sgNT4o3S3kBBeNYT8ha8jjN4h1XBcQJZxSXP
